@@ -1,5 +1,5 @@
 #include<stdio.h>
-swap( int a[], int b)
+int swap( int a[], int b)
 {
 	int i,j,temp;
 	for(i=0;i<b-1;i++)
